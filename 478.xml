@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="mycss.css"type="text/css"?>
+
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="mycss.css" type="text/css"?>
 <books>
-<heading>文創書訪</heading>
+<heading>賴諭晨</heading>
 <book>
-<title>我愛</title>
-<author>賴諭晨</author>
-<publisher>聯大出版社</publisher>
+<title>賴諭晨</author>
+<publisher>炸藥王出版社</publisher>
 </book>
 <book>
-<title>我愛</title>
+<title>漫畫</title>
 <author>賴諭晨</author>
-<publisher>聯大出版社</publisher>
+<publisher>炸藥王出版社</publisher>
 </book>
 </books>
